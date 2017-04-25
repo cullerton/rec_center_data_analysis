@@ -1,0 +1,506 @@
+SELL_DATE,AGENT,CUSTOMER,ITEM,COUNT,PRICE
+05/26/2011,Christine,Leo Vivamus LLP,Lorem,3895,8837
+11/08/2011,Christine,Urna LLC,Software Consulting,2575,500
+08/01/2013,Christine,Tempor Bibendum Company,ET,9236,4299
+10/12/2013,Danny,Integer Sem Elit Foundation,Nunc,8648,2500
+10/05/2015,Bob,Integer Sem Elit Foundation,Duck,1482,2500
+02/01/2010,Alice,Libero Associates,Software Development,1485,250
+03/14/2012,Danny,Urna LLC,Demarc,7963,10000
+03/25/2014,Danny,Orci In Industries,Lorem,4994,8837
+06/12/2010,Danny,Non Massa Associates,Software Consulting,1964,500
+08/14/2010,Alice,Nulla Interdum Curabitur Associates,Ipsum,6334,8332
+05/25/2015,Alice,Leo Vivamus LLP,Erasers,8124,45
+01/30/2013,Danny,Non Massa Associates,Router,2780,3048
+08/29/2010,Christine,Leo Vivamus LLP,Nunc,5950,2500
+01/05/2014,Danny,Leo Vivamus LLP,System Management,8595,25000
+04/12/2013,Danny,Nulla Interdum Curabitur Associates,Wireless Hub,6861,99
+07/01/2012,Bob,Vestibulum Neque Ltd,Sharpeners,5573,6153
+07/31/2011,Christine,Integer Sem Elit Foundation,Duck,6734,2500
+03/16/2014,Alice,Tempor Bibendum Company,Router,2665,3048
+10/28/2011,Bob,Leo Vivamus LLP,Network Construction,9581,1000
+06/12/2015,Bob,Cursus Associates,Penatibus,6584,5700
+05/10/2011,Danny,Vestibulum Neque Ltd,Slate,8922,5346
+04/30/2011,Danny,Orci In Industries,Pencils,1543,12
+06/04/2010,Christine,Tempor Bibendum Company,Network Consulting,9865,500
+07/08/2012,Christine,Nulla Interdum Curabitur Associates,System Management,4850,25000
+06/05/2013,Bob,Urna LLC,Software Consulting,381,500
+05/31/2011,Alice,Orci In Industries,Sharpeners,6052,6153
+11/15/2012,Bob,Vestibulum Neque Ltd,Slate,4255,5346
+05/29/2015,Danny,Nulla Interdum Curabitur Associates,System Management,2741,25000
+11/20/2014,Christine,Urna LLC,Slate,135,5346
+12/12/2014,Christine,Integer Sem Elit Foundation,Network Management,5722,10000
+02/28/2010,Bob,Libero Associates,Switch,4171,1036
+09/20/2011,Bob,Leo Vivamus LLP,Quad,375,9884
+01/27/2011,Alice,Integer Sem Elit Foundation,Network Management,2124,10000
+07/21/2010,Danny,Non Massa Associates,Pencils,201,12
+06/23/2015,Alice,Tempor Bibendum Company,Software Development,5846,250
+10/15/2012,Bob,Cursus Associates,Database Management,3086,50000
+10/06/2013,Bob,Tempor Bibendum Company,Nunc,1552,2500
+11/09/2010,Bob,Integer Sem Elit Foundation,Nunc,8817,2500
+07/04/2013,Christine,Cursus Associates,Router,707,3048
+07/13/2012,Danny,Orci In Industries,Database Management,4229,50000
+12/15/2011,Bob,Libero Associates,System Management,6217,25000
+07/23/2010,Alice,Integer Sem Elit Foundation,Network Management,3937,10000
+03/17/2011,Alice,Libero Associates,Duck,9178,2500
+04/03/2010,Alice,Libero Associates,Penatibus,6806,5700
+03/19/2011,Danny,Leo Vivamus LLP,Network Management,2874,10000
+11/12/2011,Bob,Cursus Associates,Database Management,4871,50000
+09/19/2014,Bob,Nulla Interdum Curabitur Associates,System Development,6833,1000
+04/10/2011,Bob,Libero Associates,Consequat,1846,9949
+05/19/2010,Bob,Orci In Industries,Erasers,9348,45
+04/18/2015,Bob,Non Massa Associates,Network Management,860,10000
+10/06/2010,Christine,Cursus Associates,Penatibus,2588,5700
+05/27/2015,Bob,Non Massa Associates,Database Management,4003,50000
+07/18/2011,Christine,Integer Sem Elit Foundation,Erasers,7414,45
+12/20/2010,Danny,Integer Sem Elit Foundation,Switch,2775,1036
+08/18/2013,Christine,Orci In Industries,System Management,5809,25000
+09/13/2013,Danny,Leo Vivamus LLP,Network Consulting,1090,500
+04/28/2013,Bob,Tempor Bibendum Company,ET,1797,4299
+03/31/2015,Danny,Libero Associates,Duck,1478,2500
+05/05/2015,Bob,Leo Vivamus LLP,Router,1016,3048
+11/16/2012,Christine,Leo Vivamus LLP,System Management,1797,25000
+08/21/2014,Alice,Urna LLC,System Management,1659,25000
+12/16/2011,Bob,Orci In Industries,System Development,5805,1000
+03/23/2010,Alice,Integer Sem Elit Foundation,Pencils,3925,12
+07/16/2011,Alice,Leo Vivamus LLP,Database Management,7577,50000
+06/11/2014,Bob,Urna LLC,Software Consulting,2030,500
+10/31/2011,Christine,Cursus Associates,Pencils,2449,12
+10/05/2013,Danny,Leo Vivamus LLP,Switch,4973,1036
+01/24/2012,Alice,Vestibulum Neque Ltd,Nunc,6369,2500
+02/12/2014,Danny,Urna LLC,Pencils,4582,12
+12/02/2011,Christine,Cursus Associates,Wireless Hub,3749,99
+08/23/2015,Christine,Libero Associates,Penatibus,6592,5700
+07/14/2015,Christine,Tempor Bibendum Company,Management Consulting,3279,1000
+03/08/2012,Bob,Integer Sem Elit Foundation,Ipsum,511,8332
+12/19/2013,Bob,Non Massa Associates,Erasers,403,45
+08/19/2012,Christine,Libero Associates,Ipsum,1151,8332
+11/18/2010,Alice,Cursus Associates,Wireless Hub,1825,99
+04/22/2010,Bob,Orci In Industries,Network Management,7344,10000
+01/03/2013,Alice,Vestibulum Neque Ltd,Slate,7721,5346
+09/25/2010,Alice,Integer Sem Elit Foundation,Pencils,5280,12
+07/14/2011,Danny,Nulla Interdum Curabitur Associates,Software Consulting,2005,500
+05/29/2013,Bob,Orci In Industries,System Management,7055,25000
+07/30/2013,Danny,Vestibulum Neque Ltd,Slate,603,5346
+03/29/2014,Danny,Non Massa Associates,Sharpeners,6266,6153
+06/28/2013,Danny,Orci In Industries,Demarc,702,10000
+05/22/2010,Bob,Vestibulum Neque Ltd,Sharpeners,9775,6153
+11/21/2010,Alice,Nulla Interdum Curabitur Associates,Ipsum,227,8332
+11/14/2014,Bob,Nulla Interdum Curabitur Associates,Router,7267,3048
+04/10/2013,Bob,Libero Associates,Ipsum,1658,8332
+08/12/2015,Alice,Libero Associates,Erasers,7281,45
+01/11/2013,Danny,Nulla Interdum Curabitur Associates,Demarc,9605,10000
+11/27/2010,Alice,Tempor Bibendum Company,Consequat,2977,9949
+05/16/2013,Danny,Cursus Associates,Duck,6176,2500
+12/26/2014,Christine,Tempor Bibendum Company,Software Development,5849,250
+09/19/2011,Bob,Cursus Associates,Demarc,9061,10000
+02/26/2011,Bob,Urna LLC,Management Consulting,5092,1000
+02/14/2013,Christine,Orci In Industries,Slate,1472,5346
+11/13/2013,Bob,Cursus Associates,ET,2992,4299
+02/19/2014,Alice,Cursus Associates,Sharpeners,2099,6153
+02/12/2012,Christine,Libero Associates,Ipsum,7302,8332
+06/30/2012,Bob,Leo Vivamus LLP,Erasers,4247,45
+04/18/2013,Christine,Urna LLC,Database Management,8933,50000
+08/02/2014,Alice,Nulla Interdum Curabitur Associates,System Development,1091,1000
+09/15/2015,Christine,Libero Associates,Router,7818,3048
+12/31/2012,Bob,Nulla Interdum Curabitur Associates,Nunc,1593,2500
+01/07/2015,Danny,Orci In Industries,Network Management,8833,10000
+01/22/2011,Bob,Tempor Bibendum Company,Nunc,3515,2500
+03/10/2014,Bob,Tempor Bibendum Company,Switch,6878,1036
+06/07/2010,Bob,Leo Vivamus LLP,Penatibus,9603,5700
+04/04/2014,Christine,Nulla Interdum Curabitur Associates,Router,8532,3048
+05/03/2015,Bob,Vestibulum Neque Ltd,Network Management,706,10000
+01/12/2011,Alice,Integer Sem Elit Foundation,ET,6751,4299
+02/05/2013,Christine,Orci In Industries,Sharpeners,9850,6153
+04/17/2012,Danny,Orci In Industries,Network Management,5397,10000
+12/27/2014,Bob,Leo Vivamus LLP,System Management,5298,25000
+03/06/2015,Bob,Vestibulum Neque Ltd,System Development,5017,1000
+05/17/2014,Christine,Vestibulum Neque Ltd,Pencils,3933,12
+06/30/2014,Christine,Libero Associates,System Development,4385,1000
+05/04/2012,Danny,Cursus Associates,Wireless Hub,309,99
+09/29/2014,Danny,Nulla Interdum Curabitur Associates,Erasers,6934,45
+10/14/2013,Danny,Leo Vivamus LLP,Database Management,5165,50000
+08/26/2015,Bob,Libero Associates,Pencils,7866,12
+11/04/2014,Bob,Urna LLC,Network Consulting,747,500
+12/30/2014,Bob,Integer Sem Elit Foundation,ET,8614,4299
+06/07/2010,Alice,Libero Associates,Erasers,5782,45
+10/12/2015,Bob,Nulla Interdum Curabitur Associates,Router,3934,3048
+07/07/2014,Christine,Urna LLC,Lorem,6339,8837
+04/18/2015,Christine,Nulla Interdum Curabitur Associates,Network Management,3287,10000
+05/29/2013,Alice,Tempor Bibendum Company,Switch,8723,1036
+10/13/2011,Christine,Cursus Associates,System Development,7661,1000
+05/02/2010,Bob,Leo Vivamus LLP,Database Management,4283,50000
+08/17/2013,Danny,Orci In Industries,ET,4537,4299
+01/10/2010,Christine,Tempor Bibendum Company,Software Development,8254,250
+02/05/2011,Bob,Nulla Interdum Curabitur Associates,Consequat,4352,9949
+12/02/2013,Danny,Nulla Interdum Curabitur Associates,Lorem,2271,8837
+12/11/2012,Danny,Orci In Industries,Consequat,4259,9949
+07/18/2010,Christine,Libero Associates,System Development,8669,1000
+09/16/2011,Danny,Libero Associates,Network Consulting,1974,500
+08/22/2010,Bob,Nulla Interdum Curabitur Associates,Pencils,2952,12
+08/16/2012,Alice,Leo Vivamus LLP,Quad,8460,9884
+10/17/2014,Christine,Nulla Interdum Curabitur Associates,Switch,5803,1036
+03/21/2013,Christine,Orci In Industries,Router,6580,3048
+07/11/2012,Christine,Integer Sem Elit Foundation,Erasers,6776,45
+01/14/2014,Danny,Urna LLC,Slate,8447,5346
+12/06/2011,Danny,Nulla Interdum Curabitur Associates,System Management,3136,25000
+05/25/2011,Danny,Tempor Bibendum Company,Software Development,2908,250
+07/06/2011,Danny,Urna LLC,Lorem,8293,8837
+04/06/2014,Bob,Libero Associates,Software Consulting,9387,500
+11/12/2014,Alice,Nulla Interdum Curabitur Associates,Software Consulting,740,500
+10/10/2012,Bob,Leo Vivamus LLP,ET,3086,4299
+10/29/2014,Alice,Libero Associates,Pencils,2721,12
+11/25/2013,Danny,Urna LLC,Lorem,1866,8837
+02/02/2015,Bob,Nulla Interdum Curabitur Associates,System Development,4505,1000
+03/06/2015,Alice,Vestibulum Neque Ltd,Slate,4005,5346
+03/17/2011,Bob,Cursus Associates,Switch,6408,1036
+08/13/2010,Bob,Tempor Bibendum Company,Quad,8048,9884
+07/06/2015,Bob,Nulla Interdum Curabitur Associates,Erasers,5286,45
+08/05/2011,Christine,Nulla Interdum Curabitur Associates,Penatibus,5673,5700
+12/22/2012,Alice,Non Massa Associates,Network Consulting,6334,500
+02/19/2013,Alice,Orci In Industries,Erasers,3272,45
+12/10/2012,Bob,Nulla Interdum Curabitur Associates,Demarc,3786,10000
+12/16/2014,Bob,Non Massa Associates,Sharpeners,7761,6153
+01/20/2015,Bob,Orci In Industries,Slate,4835,5346
+11/07/2013,Danny,Non Massa Associates,Pencils,8701,12
+08/06/2012,Alice,Leo Vivamus LLP,Consequat,9409,9949
+04/05/2014,Christine,Libero Associates,Ipsum,4568,8332
+10/14/2011,Bob,Integer Sem Elit Foundation,Wireless Hub,872,99
+09/03/2011,Bob,Tempor Bibendum Company,Switch,9232,1036
+06/28/2011,Bob,Orci In Industries,Consequat,2698,9949
+10/14/2014,Christine,Tempor Bibendum Company,Erasers,7897,45
+05/29/2013,Bob,Leo Vivamus LLP,Wireless Hub,2785,99
+04/06/2015,Danny,Integer Sem Elit Foundation,Network Management,9901,10000
+02/23/2014,Bob,Cursus Associates,Management Consulting,9129,1000
+07/18/2014,Alice,Libero Associates,Wireless Hub,3964,99
+01/28/2010,Christine,Integer Sem Elit Foundation,System Development,8646,1000
+02/19/2013,Alice,Nulla Interdum Curabitur Associates,Database Management,4959,50000
+02/21/2015,Bob,Vestibulum Neque Ltd,Ipsum,8609,8332
+08/20/2013,Bob,Libero Associates,Nunc,6177,2500
+09/24/2013,Alice,Nulla Interdum Curabitur Associates,Consequat,9395,9949
+08/11/2015,Alice,Leo Vivamus LLP,Slate,9295,5346
+07/11/2015,Danny,Vestibulum Neque Ltd,Database Management,6924,50000
+02/01/2010,Alice,Tempor Bibendum Company,Wireless Hub,3801,99
+11/29/2012,Bob,Nulla Interdum Curabitur Associates,Nunc,9913,2500
+10/15/2010,Christine,Libero Associates,Sharpeners,1889,6153
+02/17/2010,Christine,Urna LLC,Ipsum,6884,8332
+04/15/2010,Christine,Vestibulum Neque Ltd,Network Construction,4672,1000
+10/31/2014,Bob,Non Massa Associates,Penatibus,9998,5700
+03/20/2010,Christine,Integer Sem Elit Foundation,Consequat,5728,9949
+11/12/2012,Christine,Integer Sem Elit Foundation,Penatibus,2687,5700
+08/05/2014,Danny,Nulla Interdum Curabitur Associates,Erasers,7905,45
+01/03/2014,Bob,Orci In Industries,Erasers,2977,45
+10/10/2010,Bob,Vestibulum Neque Ltd,Switch,3062,1036
+04/25/2012,Alice,Vestibulum Neque Ltd,Quad,9497,9884
+04/24/2013,Bob,Nulla Interdum Curabitur Associates,Router,3839,3048
+06/27/2015,Christine,Nulla Interdum Curabitur Associates,Switch,9772,1036
+12/11/2012,Christine,Nulla Interdum Curabitur Associates,Sharpeners,8265,6153
+04/09/2015,Alice,Nulla Interdum Curabitur Associates,Software Development,2321,250
+02/16/2015,Christine,Urna LLC,Pencils,3344,12
+07/01/2015,Alice,Cursus Associates,ET,6848,4299
+10/27/2014,Danny,Cursus Associates,Ipsum,9685,8332
+12/26/2010,Alice,Libero Associates,Network Consulting,5746,500
+03/14/2014,Alice,Urna LLC,Ipsum,7430,8332
+09/07/2011,Danny,Cursus Associates,Erasers,713,45
+04/28/2012,Danny,Tempor Bibendum Company,Switch,4118,1036
+08/14/2010,Christine,Orci In Industries,Lorem,8364,8837
+09/13/2010,Danny,Urna LLC,Network Management,9041,10000
+04/11/2010,Christine,Non Massa Associates,Pencils,899,12
+01/08/2010,Christine,Vestibulum Neque Ltd,Ipsum,906,8332
+02/17/2015,Alice,Vestibulum Neque Ltd,Router,4948,3048
+03/29/2011,Danny,Urna LLC,Network Construction,2853,1000
+02/04/2010,Christine,Integer Sem Elit Foundation,Network Management,6585,10000
+08/09/2010,Christine,Orci In Industries,Network Consulting,3946,500
+06/08/2012,Bob,Tempor Bibendum Company,Pencils,3614,12
+02/24/2015,Danny,Cursus Associates,Duck,7780,2500
+05/10/2010,Danny,Vestibulum Neque Ltd,Pencils,1751,12
+08/07/2013,Alice,Integer Sem Elit Foundation,Management Consulting,1588,1000
+09/28/2011,Danny,Orci In Industries,System Management,9144,25000
+01/25/2013,Christine,Libero Associates,Pencils,8240,12
+10/19/2011,Bob,Orci In Industries,Lorem,3856,8837
+08/03/2011,Christine,Tempor Bibendum Company,Lorem,8285,8837
+09/10/2012,Danny,Cursus Associates,Network Construction,5466,1000
+01/23/2012,Bob,Nulla Interdum Curabitur Associates,Software Development,5580,250
+04/13/2015,Bob,Non Massa Associates,Ipsum,6068,8332
+02/08/2014,Alice,Tempor Bibendum Company,Demarc,3069,10000
+12/08/2010,Alice,Nulla Interdum Curabitur Associates,System Management,3371,25000
+06/12/2014,Danny,Urna LLC,Software Development,7110,250
+12/11/2010,Bob,Nulla Interdum Curabitur Associates,System Management,7959,25000
+02/04/2012,Christine,Cursus Associates,Slate,6573,5346
+10/14/2014,Christine,Leo Vivamus LLP,Demarc,8390,10000
+01/26/2014,Bob,Non Massa Associates,Pencils,8049,12
+11/09/2013,Danny,Leo Vivamus LLP,Consequat,1075,9949
+01/30/2014,Bob,Nulla Interdum Curabitur Associates,ET,8321,4299
+05/05/2014,Christine,Vestibulum Neque Ltd,Ipsum,1473,8332
+06/17/2013,Danny,Vestibulum Neque Ltd,System Development,4403,1000
+05/20/2013,Bob,Integer Sem Elit Foundation,Lorem,3829,8837
+05/17/2014,Bob,Tempor Bibendum Company,Network Consulting,5225,500
+10/13/2010,Bob,Integer Sem Elit Foundation,Lorem,1258,8837
+08/14/2013,Alice,Nulla Interdum Curabitur Associates,Lorem,8885,8837
+04/21/2011,Bob,Tempor Bibendum Company,Lorem,5688,8837
+02/09/2010,Christine,Nulla Interdum Curabitur Associates,Management Consulting,8579,1000
+02/17/2015,Danny,Leo Vivamus LLP,Duck,3172,2500
+08/03/2012,Christine,Vestibulum Neque Ltd,Database Management,6186,50000
+07/11/2013,Danny,Vestibulum Neque Ltd,System Management,9560,25000
+07/17/2013,Christine,Orci In Industries,Slate,1698,5346
+05/12/2012,Alice,Integer Sem Elit Foundation,Management Consulting,7177,1000
+11/28/2011,Danny,Nulla Interdum Curabitur Associates,Nunc,9659,2500
+05/15/2010,Danny,Integer Sem Elit Foundation,Quad,656,9884
+05/16/2014,Christine,Integer Sem Elit Foundation,Wireless Hub,6851,99
+07/08/2014,Alice,Tempor Bibendum Company,Sharpeners,6888,6153
+11/15/2010,Alice,Non Massa Associates,Duck,4666,2500
+08/02/2011,Danny,Non Massa Associates,Sharpeners,6637,6153
+09/29/2015,Bob,Urna LLC,Database Management,5853,50000
+04/08/2014,Christine,Integer Sem Elit Foundation,Duck,9306,2500
+02/12/2014,Alice,Non Massa Associates,Nunc,9142,2500
+08/24/2014,Christine,Nulla Interdum Curabitur Associates,Sharpeners,8505,6153
+03/01/2011,Bob,Integer Sem Elit Foundation,Management Consulting,3710,1000
+11/28/2014,Bob,Cursus Associates,Switch,1141,1036
+08/22/2015,Christine,Non Massa Associates,Sharpeners,8685,6153
+03/24/2012,Danny,Orci In Industries,Ipsum,9189,8332
+11/15/2013,Bob,Non Massa Associates,Quad,8507,9884
+12/23/2014,Danny,Integer Sem Elit Foundation,Database Management,4319,50000
+03/03/2011,Bob,Urna LLC,Network Consulting,2592,500
+05/20/2013,Bob,Leo Vivamus LLP,Consequat,3200,9949
+07/28/2012,Danny,Integer Sem Elit Foundation,Router,6426,3048
+06/24/2010,Alice,Integer Sem Elit Foundation,Software Consulting,7892,500
+07/09/2014,Danny,Libero Associates,Duck,8475,2500
+05/11/2012,Bob,Nulla Interdum Curabitur Associates,Penatibus,4565,5700
+08/01/2013,Christine,Tempor Bibendum Company,Database Management,1776,50000
+11/10/2012,Christine,Nulla Interdum Curabitur Associates,Ipsum,5738,8332
+04/23/2013,Danny,Orci In Industries,Software Consulting,3599,500
+05/10/2015,Alice,Leo Vivamus LLP,Network Consulting,3318,500
+05/09/2010,Christine,Integer Sem Elit Foundation,Slate,1740,5346
+10/22/2011,Alice,Libero Associates,Database Management,110,50000
+02/13/2013,Danny,Leo Vivamus LLP,Sharpeners,8173,6153
+06/22/2014,Alice,Integer Sem Elit Foundation,Quad,5692,9884
+10/16/2014,Christine,Tempor Bibendum Company,Software Development,4530,250
+10/24/2013,Christine,Non Massa Associates,Software Development,8165,250
+03/05/2015,Christine,Vestibulum Neque Ltd,Network Consulting,9981,500
+11/30/2012,Bob,Non Massa Associates,Erasers,7751,45
+08/15/2010,Danny,Cursus Associates,Database Management,3184,50000
+03/10/2012,Danny,Leo Vivamus LLP,Quad,8829,9884
+03/10/2012,Danny,Tempor Bibendum Company,Slate,5867,5346
+09/05/2012,Alice,Vestibulum Neque Ltd,Slate,5918,5346
+11/18/2012,Danny,Vestibulum Neque Ltd,Wireless Hub,2432,99
+09/09/2011,Bob,Integer Sem Elit Foundation,Wireless Hub,7650,99
+02/04/2012,Christine,Urna LLC,Ipsum,904,8332
+02/22/2010,Bob,Tempor Bibendum Company,ET,5229,4299
+02/07/2014,Christine,Nulla Interdum Curabitur Associates,Network Construction,4526,1000
+07/21/2010,Danny,Leo Vivamus LLP,Pencils,9921,12
+12/11/2012,Danny,Orci In Industries,System Management,5802,25000
+03/02/2013,Alice,Non Massa Associates,Duck,9445,2500
+11/16/2012,Alice,Integer Sem Elit Foundation,Lorem,9322,8837
+09/17/2013,Danny,Vestibulum Neque Ltd,Ipsum,9740,8332
+02/02/2011,Danny,Libero Associates,Router,9944,3048
+09/23/2014,Bob,Tempor Bibendum Company,Network Management,8335,10000
+02/18/2012,Bob,Nulla Interdum Curabitur Associates,Sharpeners,3235,6153
+07/21/2011,Alice,Libero Associates,Sharpeners,9698,6153
+03/11/2012,Alice,Cursus Associates,Router,2111,3048
+11/09/2012,Christine,Libero Associates,Software Consulting,232,500
+05/07/2013,Alice,Leo Vivamus LLP,Wireless Hub,174,99
+11/19/2010,Alice,Orci In Industries,Penatibus,1682,5700
+08/11/2010,Bob,Nulla Interdum Curabitur Associates,Penatibus,5867,5700
+06/11/2012,Bob,Cursus Associates,Router,8433,3048
+12/23/2014,Christine,Non Massa Associates,Software Development,6721,250
+11/23/2014,Alice,Cursus Associates,Slate,6076,5346
+05/23/2011,Danny,Nulla Interdum Curabitur Associates,Wireless Hub,4135,99
+12/23/2013,Christine,Orci In Industries,Quad,7830,9884
+11/08/2010,Alice,Leo Vivamus LLP,Software Consulting,8978,500
+01/02/2012,Bob,Leo Vivamus LLP,Ipsum,5945,8332
+03/10/2010,Christine,Orci In Industries,Sharpeners,8044,6153
+05/06/2012,Alice,Leo Vivamus LLP,Lorem,9246,8837
+08/20/2011,Alice,Leo Vivamus LLP,Nunc,7064,2500
+12/05/2011,Bob,Vestibulum Neque Ltd,Database Management,4441,50000
+03/29/2013,Alice,Tempor Bibendum Company,Sharpeners,8946,6153
+07/04/2014,Danny,Integer Sem Elit Foundation,Consequat,8133,9949
+05/31/2010,Danny,Leo Vivamus LLP,Switch,4689,1036
+04/22/2010,Bob,Non Massa Associates,ET,2811,4299
+10/28/2014,Christine,Libero Associates,Penatibus,3165,5700
+02/06/2012,Alice,Tempor Bibendum Company,Network Consulting,8732,500
+09/18/2014,Bob,Non Massa Associates,Ipsum,3324,8332
+03/15/2015,Danny,Integer Sem Elit Foundation,Erasers,924,45
+05/27/2010,Danny,Libero Associates,Duck,6963,2500
+09/10/2014,Alice,Nulla Interdum Curabitur Associates,Wireless Hub,5456,99
+06/27/2014,Bob,Cursus Associates,Software Consulting,8763,500
+12/01/2014,Alice,Orci In Industries,Consequat,2755,9949
+03/20/2010,Danny,Leo Vivamus LLP,Network Construction,9102,1000
+08/30/2014,Alice,Nulla Interdum Curabitur Associates,Erasers,2958,45
+06/22/2015,Alice,Integer Sem Elit Foundation,Network Management,5716,10000
+04/29/2015,Danny,Orci In Industries,Quad,7714,9884
+08/09/2015,Alice,Urna LLC,Database Management,7114,50000
+02/13/2010,Bob,Non Massa Associates,Network Consulting,3832,500
+09/13/2014,Alice,Cursus Associates,Software Consulting,1429,500
+10/11/2015,Bob,Cursus Associates,Nunc,9897,2500
+08/19/2015,Danny,Urna LLC,Pencils,2064,12
+04/01/2010,Danny,Cursus Associates,Duck,3968,2500
+02/17/2014,Danny,Nulla Interdum Curabitur Associates,Software Consulting,9732,500
+02/20/2015,Bob,Urna LLC,System Development,734,1000
+09/18/2014,Bob,Urna LLC,System Development,5131,1000
+03/07/2011,Christine,Nulla Interdum Curabitur Associates,Pencils,3159,12
+10/31/2014,Danny,Orci In Industries,ET,5439,4299
+10/18/2012,Danny,Urna LLC,Network Construction,7078,1000
+03/13/2013,Alice,Cursus Associates,Network Management,7498,10000
+08/18/2013,Danny,Libero Associates,ET,3358,4299
+07/13/2015,Alice,Urna LLC,Network Construction,510,1000
+02/01/2012,Alice,Cursus Associates,Software Consulting,2436,500
+05/03/2010,Bob,Tempor Bibendum Company,Lorem,1279,8837
+10/27/2014,Alice,Integer Sem Elit Foundation,Wireless Hub,481,99
+06/13/2010,Christine,Tempor Bibendum Company,Software Development,5834,250
+02/15/2012,Alice,Orci In Industries,Erasers,9958,45
+09/27/2012,Bob,Libero Associates,Sharpeners,9610,6153
+07/26/2015,Christine,Orci In Industries,Management Consulting,9340,1000
+08/29/2010,Danny,Vestibulum Neque Ltd,Lorem,3959,8837
+08/17/2014,Alice,Integer Sem Elit Foundation,Consequat,1517,9949
+06/11/2010,Danny,Vestibulum Neque Ltd,Erasers,2179,45
+01/05/2013,Christine,Tempor Bibendum Company,Sharpeners,8016,6153
+09/14/2012,Bob,Vestibulum Neque Ltd,Duck,6455,2500
+08/28/2011,Alice,Integer Sem Elit Foundation,Demarc,3928,10000
+05/11/2013,Christine,Tempor Bibendum Company,Consequat,5581,9949
+05/04/2012,Bob,Tempor Bibendum Company,System Management,278,25000
+04/11/2011,Christine,Orci In Industries,Consequat,9943,9949
+06/06/2015,Danny,Cursus Associates,Duck,9870,2500
+11/27/2011,Christine,Vestibulum Neque Ltd,Quad,5311,9884
+06/03/2014,Bob,Tempor Bibendum Company,Pencils,1710,12
+11/19/2011,Bob,Orci In Industries,Nunc,4994,2500
+01/30/2011,Bob,Non Massa Associates,Database Management,4115,50000
+12/07/2012,Danny,Leo Vivamus LLP,Lorem,5234,8837
+08/03/2011,Christine,Integer Sem Elit Foundation,Pencils,8644,12
+05/02/2010,Alice,Libero Associates,Network Management,5824,10000
+05/07/2015,Danny,Urna LLC,Duck,9138,2500
+08/27/2011,Danny,Libero Associates,Switch,3077,1036
+01/24/2015,Bob,Urna LLC,Database Management,1382,50000
+04/26/2012,Alice,Urna LLC,ET,8030,4299
+03/16/2010,Danny,Tempor Bibendum Company,Pencils,2296,12
+10/05/2015,Christine,Tempor Bibendum Company,System Development,6648,1000
+03/19/2013,Danny,Integer Sem Elit Foundation,System Development,4429,1000
+07/20/2015,Alice,Leo Vivamus LLP,Nunc,8892,2500
+03/23/2014,Bob,Integer Sem Elit Foundation,Erasers,5174,45
+07/07/2010,Danny,Vestibulum Neque Ltd,Lorem,8253,8837
+05/15/2012,Danny,Urna LLC,System Management,4908,25000
+12/09/2014,Christine,Cursus Associates,ET,9203,4299
+11/09/2010,Christine,Cursus Associates,Network Consulting,5329,500
+08/21/2015,Bob,Orci In Industries,Consequat,8146,9949
+11/28/2010,Danny,Leo Vivamus LLP,Slate,3481,5346
+09/05/2015,Christine,Non Massa Associates,Wireless Hub,8515,99
+12/20/2014,Danny,Vestibulum Neque Ltd,System Management,6079,25000
+08/28/2015,Christine,Non Massa Associates,ET,8425,4299
+05/10/2014,Alice,Leo Vivamus LLP,Network Management,6723,10000
+09/27/2010,Danny,Nulla Interdum Curabitur Associates,Network Management,7660,10000
+03/15/2012,Alice,Non Massa Associates,System Development,6158,1000
+01/04/2015,Christine,Orci In Industries,Network Construction,4886,1000
+07/01/2013,Bob,Nulla Interdum Curabitur Associates,Software Development,4584,250
+08/21/2012,Christine,Tempor Bibendum Company,Sharpeners,6653,6153
+04/18/2013,Christine,Leo Vivamus LLP,Penatibus,6054,5700
+03/30/2010,Danny,Orci In Industries,Database Management,5735,50000
+05/22/2013,Bob,Urna LLC,System Management,6847,25000
+04/09/2010,Christine,Libero Associates,System Management,5538,25000
+01/07/2013,Alice,Non Massa Associates,Demarc,7649,10000
+01/29/2013,Bob,Vestibulum Neque Ltd,Network Construction,8124,1000
+02/23/2010,Christine,Cursus Associates,Pencils,6153,12
+01/27/2010,Christine,Libero Associates,Demarc,6664,10000
+04/10/2014,Christine,Cursus Associates,Switch,2077,1036
+05/13/2011,Christine,Integer Sem Elit Foundation,Slate,3045,5346
+10/18/2014,Bob,Tempor Bibendum Company,Software Consulting,3950,500
+11/03/2013,Bob,Libero Associates,Network Consulting,1545,500
+02/11/2010,Christine,Non Massa Associates,Network Management,5793,10000
+04/03/2012,Bob,Tempor Bibendum Company,Sharpeners,4082,6153
+09/21/2011,Bob,Leo Vivamus LLP,Demarc,8731,10000
+03/17/2012,Christine,Nulla Interdum Curabitur Associates,Router,8224,3048
+03/20/2011,Bob,Urna LLC,Sharpeners,5852,6153
+08/21/2012,Bob,Integer Sem Elit Foundation,Network Construction,7700,1000
+11/22/2010,Danny,Vestibulum Neque Ltd,Sharpeners,8486,6153
+02/16/2013,Christine,Orci In Industries,Database Management,1315,50000
+10/24/2013,Christine,Tempor Bibendum Company,Pencils,9683,12
+05/30/2015,Bob,Integer Sem Elit Foundation,Software Consulting,5315,500
+02/10/2015,Christine,Integer Sem Elit Foundation,Consequat,2532,9949
+01/04/2015,Bob,Leo Vivamus LLP,Ipsum,7915,8332
+09/14/2010,Bob,Leo Vivamus LLP,Duck,4161,2500
+10/29/2013,Bob,Orci In Industries,Management Consulting,746,1000
+09/29/2015,Alice,Urna LLC,Slate,8102,5346
+03/19/2014,Christine,Tempor Bibendum Company,Slate,2423,5346
+02/02/2011,Christine,Orci In Industries,System Management,2665,25000
+09/24/2015,Bob,Cursus Associates,Ipsum,8934,8332
+05/07/2014,Bob,Orci In Industries,Erasers,1392,45
+10/17/2013,Christine,Vestibulum Neque Ltd,Sharpeners,6349,6153
+11/06/2011,Bob,Vestibulum Neque Ltd,Management Consulting,8568,1000
+12/15/2012,Danny,Nulla Interdum Curabitur Associates,Ipsum,5188,8332
+05/21/2010,Alice,Leo Vivamus LLP,Erasers,631,45
+02/17/2015,Alice,Libero Associates,Slate,4314,5346
+05/27/2012,Danny,Non Massa Associates,Ipsum,8414,8332
+10/04/2012,Danny,Urna LLC,Sharpeners,597,6153
+12/23/2010,Alice,Libero Associates,Management Consulting,1883,1000
+04/18/2012,Bob,Integer Sem Elit Foundation,Slate,3437,5346
+07/15/2010,Danny,Non Massa Associates,Ipsum,2055,8332
+04/02/2013,Danny,Urna LLC,Sharpeners,2501,6153
+07/27/2013,Bob,Leo Vivamus LLP,Network Consulting,3180,500
+11/11/2014,Alice,Leo Vivamus LLP,Wireless Hub,9042,99
+04/07/2012,Bob,Libero Associates,Duck,7513,2500
+01/28/2013,Christine,Non Massa Associates,Penatibus,6406,5700
+07/14/2012,Bob,Nulla Interdum Curabitur Associates,System Management,6308,25000
+05/17/2012,Danny,Urna LLC,Network Management,3379,10000
+10/26/2011,Alice,Tempor Bibendum Company,Ipsum,571,8332
+02/27/2012,Alice,Leo Vivamus LLP,Wireless Hub,7417,99
+05/31/2014,Danny,Nulla Interdum Curabitur Associates,ET,7628,4299
+01/20/2014,Danny,Orci In Industries,Network Management,8342,10000
+11/27/2010,Alice,Vestibulum Neque Ltd,Network Construction,4645,1000
+06/12/2014,Danny,Vestibulum Neque Ltd,ET,6763,4299
+02/09/2015,Bob,Urna LLC,Database Management,7895,50000
+08/29/2010,Danny,Libero Associates,Penatibus,6637,5700
+04/10/2013,Alice,Tempor Bibendum Company,Penatibus,1271,5700
+07/31/2013,Christine,Orci In Industries,Switch,4674,1036
+01/26/2015,Danny,Nulla Interdum Curabitur Associates,Duck,175,2500
+01/12/2010,Alice,Orci In Industries,Wireless Hub,1048,99
+09/26/2011,Bob,Urna LLC,Nunc,9491,2500
+04/16/2012,Bob,Orci In Industries,Sharpeners,6233,6153
+07/24/2013,Bob,Nulla Interdum Curabitur Associates,Quad,7921,9884
+11/03/2013,Alice,Non Massa Associates,Penatibus,5387,5700
+07/28/2010,Alice,Libero Associates,Slate,5458,5346
+01/31/2015,Christine,Cursus Associates,Ipsum,4164,8332
+12/11/2010,Bob,Non Massa Associates,Network Construction,8914,1000
+08/23/2010,Alice,Orci In Industries,Demarc,8729,10000
+04/28/2011,Bob,Tempor Bibendum Company,Database Management,6926,50000
+01/22/2010,Bob,Integer Sem Elit Foundation,Wireless Hub,6634,99
+05/07/2014,Christine,Non Massa Associates,Software Development,7653,250
+03/08/2013,Danny,Orci In Industries,Penatibus,9781,5700
+09/29/2012,Bob,Orci In Industries,System Development,2978,1000
+05/22/2013,Alice,Tempor Bibendum Company,Software Consulting,8988,500
+11/21/2011,Danny,Non Massa Associates,Pencils,2664,12
+10/02/2013,Alice,Non Massa Associates,Slate,745,5346
+12/16/2014,Alice,Tempor Bibendum Company,Wireless Hub,8592,99
+12/15/2013,Christine,Non Massa Associates,Network Consulting,1852,500
+02/23/2011,Danny,Vestibulum Neque Ltd,Database Management,7335,50000
+08/27/2010,Bob,Libero Associates,System Development,9128,1000
+04/18/2014,Alice,Vestibulum Neque Ltd,Software Consulting,1556,500
+09/23/2011,Bob,Cursus Associates,System Management,5051,25000
+09/21/2015,Danny,Non Massa Associates,Switch,7479,1036
+01/11/2014,Bob,Vestibulum Neque Ltd,Software Consulting,6646,500
+03/26/2014,Bob,Orci In Industries,Database Management,3439,50000
+07/12/2010,Alice,Vestibulum Neque Ltd,Pencils,7240,12
+08/21/2011,Christine,Nulla Interdum Curabitur Associates,Consequat,4811,9949
+06/22/2012,Christine,Integer Sem Elit Foundation,Erasers,4778,45
+04/13/2011,Alice,Libero Associates,System Development,6975,1000
+03/08/2013,Danny,Leo Vivamus LLP,Lorem,3730,8837
+01/26/2012,Alice,Leo Vivamus LLP,Demarc,2539,10000
+01/24/2010,Christine,Nulla Interdum Curabitur Associates,Duck,6219,2500
+12/15/2010,Danny,Orci In Industries,Software Consulting,7939,500
+09/21/2014,Alice,Orci In Industries,ET,9035,4299
+04/28/2011,Bob,Non Massa Associates,Nunc,7696,2500
+05/10/2012,Danny,Vestibulum Neque Ltd,Demarc,873,10000
+12/01/2013,Alice,Nulla Interdum Curabitur Associates,Quad,5050,9884
+06/24/2015,Alice,Nulla Interdum Curabitur Associates,Switch,7988,1036
+12/01/2012,Christine,Cursus Associates,Software Consulting,3334,500
+04/09/2013,Alice,Integer Sem Elit Foundation,Nunc,1717,2500
+02/07/2013,Danny,Non Massa Associates,Wireless Hub,6912,99
+11/04/2011,Bob,Non Massa Associates,ET,2005,4299
+11/03/2014,Danny,Vestibulum Neque Ltd,Software Consulting,4773,500
+04/20/2015,Bob,Cursus Associates,Network Construction,5863,1000
+11/19/2012,Alice,Cursus Associates,Router,4380,3048
+01/10/2011,Alice,Integer Sem Elit Foundation,Consequat,1788,9949
+03/05/2011,Alice,Non Massa Associates,System Management,5662,25000
+11/02/2012,Bob,Urna LLC,Network Management,7715,10000
+06/22/2015,Alice,Libero Associates,Pencils,4186,12
+05/16/2015,Alice,Non Massa Associates,Software Consulting,1148,500
+12/16/2010,Christine,Nulla Interdum Curabitur Associates,ET,4216,4299
+10/23/2013,Bob,Vestibulum Neque Ltd,Ipsum,8356,8332
+04/14/2010,Alice,Urna LLC,Wireless Hub,9051,99
+10/24/2011,Bob,Orci In Industries,System Management,2952,25000
